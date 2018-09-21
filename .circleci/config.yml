@@ -1,0 +1,3 @@
+test:
+  override:
+    - python helloWorldTest.py

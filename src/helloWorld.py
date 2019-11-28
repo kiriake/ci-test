@@ -1,2 +1,4 @@
-def hello():
-  return "hello world"
+class HelloWorld(object):
+
+    def hello(self):
+      return "hello world"
